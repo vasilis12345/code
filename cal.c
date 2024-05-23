@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    int type = GetInt(lol);
-
+    int type = get_int(lol);
+    printf(type)
 }
