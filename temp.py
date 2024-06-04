@@ -13,6 +13,6 @@ if temp_unit == 1:
 
 elif temp_unit == 2:
   degree_f_outcome = ((degree - 32) * 5/9)
-  
+  print(f"The result is {degree_f_outcome}")
 else :
   print("This unit is not supported")
